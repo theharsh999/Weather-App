@@ -40,7 +40,7 @@ weather-app/
 ---
 
 ## 🔑 API Used
-- **OpenWeather API**
+- **Free OpenWeather API**
 - Endpoint: https://api.openweathermap.org/data/2.5/weather
 
 ---

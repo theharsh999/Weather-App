@@ -61,4 +61,4 @@ weather-app/
 ---
 
 ### ✨ Author
-**Harsh Patel**
+**The Harsh Patel**
